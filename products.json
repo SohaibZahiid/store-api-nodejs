@@ -1,0 +1,177 @@
+[
+    {
+      "name": "accent chair",
+      "price": 25,
+      "image": "https://i.imgur.com/plVhc2U.jpg",
+      "company": "marcos",
+      "category": "kids",
+      "rating": 4
+    },
+    {
+      "name": "albany sectional",
+      "price": 109,
+      "image": "https://i.imgur.com/QRmmafF.jpg",
+      "company": "liddy",
+      "category": "kids",
+      "rating": 5
+    },
+    {
+      "name": "albany table",
+      "price": 309,
+      "image": "https://i.imgur.com/BifqyGw.jpg",
+      "company": "liddy",
+      "category": "kids",
+      "rating": 4.9
+    },
+    {
+      "name": "armchair",
+      "price": 125,
+      "company": "marcos",
+      "image": "https://i.imgur.com/8CHo8oI.jpg",
+      "category": "kids",
+      "rating": 4.8
+    },
+    {
+      "name": "bar stool",
+      "price": 40,
+      "company": "liddy",
+      "image": "https://i.imgur.com/RI2hvJO.jpg",
+      "category": "kids",
+      "rating": 4.6
+    },
+    {
+      "name": "dining table",
+      "price": 42,
+      "company": "ikea",
+      "image": "https://i.imgur.com/XbS7bMz.jpg",
+      "category": "kitchen",
+      "rating": 4.55
+    },
+    {
+      "name": "emperor bed",
+      "price": 23,
+      "company": "ikea",
+      "category": "bedroom",
+      "image": "https://i.imgur.com/2e19yVB.jpg"
+    },
+    {
+      "name": "entertainment center",
+      "price": 59,
+      "featured": true,
+      "company": "caressa",
+      "category": "living-room",
+      "image": "https://i.imgur.com/WaYvojW.jpg"
+    },
+    {
+      "name": "high-back bench",
+      "price": 39,
+      "featured": true,
+      "company": "ikea",
+      "category": "office",
+      "image": "https://i.imgur.com/S2IURE1.jpg"
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99,
+      "company": "caressa",
+      "category": "living-room",
+      "image": "https://i.imgur.com/UOwv0dC.jpg"
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 31,
+      "featured": true,
+      "company": "caressa",
+      "category": "office",
+      "image": "https://i.imgur.com/VEnUKlM.jpg"
+    },
+    {
+      "name": "modern poster",
+      "price": 30,
+      "company": "liddy",
+      "category": "office",
+      "image": "https://i.imgur.com/QMfE9Sy.jpg"
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "ikea",
+      "category": "bedroom",
+      "image": "https://i.imgur.com/XKaytql.jpg"
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "liddy",
+      "category": "kitchen",
+      "image": "https://i.imgur.com/RI2hvJO.jpg"
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "marcos",
+      "category": "living-room",
+      "image": "https://i.imgur.com/M6cYv1b.jpg"
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "caressa",
+      "category": "dining",
+      "image": "https://i.imgur.com/ODadec2.jpg"
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "liddy",
+      "category": "dining",
+      "image": "https://i.imgur.com/8Y4eCFx.jpg"
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "marcos",
+      "category": "dining",
+      "image": "https://i.imgur.com/NOvL6KA.jpg"
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "ikea",
+      "category": "bedroom",
+      "image": "https://i.imgur.com/QMlYdG0.jpg"
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "ikea",
+      "category": "office",
+      "image": "https://i.imgur.com/Zz7u1wq.jpg"
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "ikea",
+      "category": "office",
+      "image": "https://i.imgur.com/8xNPgeA.jpg"
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "category": "kitchen",
+      "image": "https://i.imgur.com/8xNPgeA.jpg"
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "category": "kids",
+      "image": "https://i.imgur.com/Zz7u1wq.jpg"
+    }
+  ]
