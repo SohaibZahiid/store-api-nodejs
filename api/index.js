@@ -36,7 +36,7 @@ app.use(function (req, res, next) {
 app.use(express.json())
 app.use(cors())
 // Routes
-app.use('/api/v1/products', routes)
+app.use(routes)
 // Custom Error Handlers
 app.use(errorHandlerMiddleware)
 app.use(notFoundMiddleware)
